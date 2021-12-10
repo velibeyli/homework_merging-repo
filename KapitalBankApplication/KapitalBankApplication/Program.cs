@@ -20,5 +20,9 @@ namespace KapitalBankApplication
         {
             Console.WriteLine("This is Mobile Application");
         }
+        public static void Birbankapp()
+        {
+            Console.WriteLine("This is Birbank Application");
+        }
     }
 }
