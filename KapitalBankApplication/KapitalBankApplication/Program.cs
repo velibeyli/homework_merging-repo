@@ -27,5 +27,10 @@ namespace KapitalBankApplication
             Console.WriteLine("3-cu ay reklam");
             Console.WriteLine("4-cu ay reklam");
         }
+        public static void Birbankapp()
+        {
+            Console.WriteLine("This is Birbank Application");
+        }
+
     }
 }
