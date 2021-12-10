@@ -20,5 +20,12 @@ namespace KapitalBankApplication
         {
             Console.WriteLine("This is Mobile Application");
         }
+        public static void ReklamApp()
+        {
+            Console.WriteLine("1-ci ay reklam");
+            Console.WriteLine("2-ci ay reklam");
+            Console.WriteLine("3-cu ay reklam");
+            Console.WriteLine("4-cu ay reklam");
+        }
     }
 }
